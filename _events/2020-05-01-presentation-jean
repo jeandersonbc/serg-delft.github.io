@@ -1,0 +1,17 @@
+---
+layout: event
+title: "Data-driven Log Recommendation"
+categories: [events]
+start: "15:00"
+end: "16:00"
+speaker: Jeanderson Candido
+where: online
+---
+
+Data-driven Log Recommendation
+
+In this talk, I will discuss about my ongoing work on helping developers to make better decisions when
+it comes to logging an enterprise system. Since this presentation is part of my Go/No-Go meeting, I'm
+going to revisit the work I've done in my first year and what are my perspectives for my Ph.D. program.
+
+Everyone is welcome to attend!
